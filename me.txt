@@ -21,9 +21,8 @@ The University of Iowa, Iowa City, IA - PhD in Statistics, August 2008
 The University of Washington, Seattle, WA - MS in Mathematics, May 2001
 Ewha Womans University, Seoul, Korea - BS in Mathematics, February 1998 
 
-
 Computer Skill
 Application - R, Python, MATLAB, SAS, SPSS, Minitab, Excel, Latex    
 Languages - Python, R, C/C++  
-Operating Systems - Mac OS X, UNIX, LINUX, MS Windows 
+
 
