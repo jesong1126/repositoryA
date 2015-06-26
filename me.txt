@@ -1,0 +1,29 @@
+Jung Eun (Jasmine) Song 
+2430 Belle Terra Dr. Eugene OR 97408	
+Email  jesong1126@gmail.com  
+Tel 541-852-8887                                                                                                            
+
+Experience
+Scientist, Electrical Geodesics Inc. Eugene OR, 2008-current
+Developed statistical analysis, network analysis, pattern recognition for brain image data (EEG, fMRI); Developed new source localization methods and algorithms; Taught Bayesian statistics for analyzing brain image data; Investigator on multiple projects 
+
+Research Assistant, the University of Iowa, Iowa City IA, 2004-2008
+Developed R software packages related to statistical problems such as nonparametric regression; Bayesian analysis; MCMC and classification 
+
+Teaching Assistant, the University of Iowa, Iowa City IA, 2002-2004
+Developed and organized TA work as a lead TA; Lead discussion section for the course: Statistics for Business
+
+Teaching Assistant, the University of Washington Seattle WA, 1998-2001
+Taught mathematics courses: Precalculus and Calculus
+
+Education
+The University of Iowa, Iowa City, IA - PhD in Statistics, August 2008
+The University of Washington, Seattle, WA - MS in Mathematics, May 2001
+Ewha Womans University, Seoul, Korea - BS in Mathematics, February 1998 
+
+
+Computer Skill
+Application - R, Python, MATLAB, SAS, SPSS, Minitab, Excel, Latex    
+Languages - Python, R, C/C++  
+Operating Systems - Mac OS X, UNIX, LINUX, MS Windows 
+
